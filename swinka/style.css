@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  min-width: 960px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  color: #8efe5e;
+  background-color: #61adfa;
+  background-image: url("https://pbs.twimg.com/card_img/1516144927008251914/GF4zO6-7?format=jpg&name=large");
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+
+
+h1 {
+  color: pink;
+  font-size: xx-large;
+}
+h3 {
+  color: rgb(255, 0, 0);
+  font-size: xx-large;
+}
+
+.main {
+  width: 1200px;
+  margin: 0 auto;
+  max-width: 100%;
+}
