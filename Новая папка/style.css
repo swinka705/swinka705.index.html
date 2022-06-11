@@ -1,0 +1,22 @@
+body {
+    background-color: aqua;
+    text-align: center;
+    padding: 30px;
+
+}
+
+h1 {
+    color: crimson;
+}
+
+img {
+    max-width: 100%;
+}
+
+.link {
+    font-size: 70px;
+}
+
+.link:hover {
+     color: red;
+}
